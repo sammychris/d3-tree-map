@@ -1,0 +1,31 @@
+{
+  "name": "d3-barchart",
+  "version": "1.0.0",
+  "description": "A bar chart that displays American GBP. This project was done when I was learning D3 from FreeCodeCamp, as one of the project challenge",
+  "main": "index.js",
+  "dependencies": {
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.12.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammychris/d3-barchart.git"
+  },
+  "keywords": [
+    "D3",
+    "bar",
+    "chart"
+  ],
+  "author": "Samuel C. Okanume",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sammychris/d3-barchart/issues"
+  },
+  "homepage": "https://github.com/sammychris/d3-barchart#readme"
+}
